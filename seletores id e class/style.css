@@ -1,0 +1,17 @@
+.heroi {
+color: blue;
+font-size: 1.5em;
+}
+.vilao {
+color: red;
+font-style: italic;
+}
+#titulo {
+color: purple;
+text-align: center;
+}
+#final {
+    background-color: darkviolet;
+    color: white;
+    text-align: center;
+}
