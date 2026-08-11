@@ -1,0 +1,19 @@
+.cedesp{
+display: inline-flex;
+
+}
+.adm{
+border: solid 2px black; 
+background-color: lightgoldenrodyellow;
+}
+.gastro{
+border: solid;
+background-color: linen;
+}
+.ti{
+    border: solid;
+background-color: lightblue;
+}
+#titulo{
+    text-align: center;
+}
