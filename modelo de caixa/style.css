@@ -1,0 +1,21 @@
+.borda{
+border: solid 2px #0000ff;
+margin-left: 50px;
+padding-top: 50px;
+margin-bottom: 50px;
+}
+.borda1{
+    border: dashed red 2px;
+  padding: 15px 25px;
+}
+.borda2{
+border: dotted 2px green;
+margin-top: 100px;
+
+}
+.borda3{
+    border: dashed orange 2px;
+margin: 50px 75px 50px 100px;
+
+}
+
