@@ -1,0 +1,46 @@
+.neon{
+    animation: cores 3s infinite;
+    text-align: center;
+    tex
+   }
+   
+   @keyframes cores {
+      0%   { color: red; }
+    25%  { color: blue; }
+    50%  { color: green; }
+    75%  { color: orange; }
+    100% { color: red; }
+}
+
+.preto{
+height: 300px;
+width: 300px;
+border: solid 10px rgb(93, 93, 94);
+background-color: #000000;
+border-radius: 50%;
+
+
+}
+.verde{
+ height: 300px;
+width: 500px;
+border: solid 9px rgb(28, 110, 28);
+background-color: #00FF00;
+border-radius: 999px;
+
+}
+.amarelo{
+ height: 300px;
+width: 400px;
+border: groove 3px rgb(190, 176, 42);
+background-color: #FFFF00;
+border-radius: 85959px;
+
+}
+.azul{
+height: 70px;
+width: 500px;
+border: solid 7px rgb(14, 76, 148) ;
+background-color: #0000FF;
+border-radius: 908763px;
+}
