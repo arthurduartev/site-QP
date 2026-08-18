@@ -1,0 +1,71 @@
+#titulo{
+  color: aliceblue;
+  font-size: 4cm; 
+  line-height: 0.8;
+  margin-top: 6cm;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  }
+.evil{
+  color: rgb(160, 138, 17);
+}
+
+body {
+    margin: 0;
+  padding:0;
+  background-color: #000;
+  min-height: 100vh;
+  color: white;
+  background-image: 
+    radial-gradient(ellipse at center, transparent 80%, #000 85%),
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url("4112429.jpg");
+  background-size: 28cm;
+  background-position: top;
+  background-repeat: no-repeat;
+  
+}
+
+.subsubtitulo{
+  color: #d1cfc2;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  font-style: italic;
+  opacity: 0.9;
+}
+
+.conteudo{
+  color: white;
+  font-size: 18px;
+  max-width: 700px;
+  line-height: 1.6;
+  margin-top: 1cm;
+  width: 90%;
+   width: 100vw; 
+  max-width: none !important; 
+  padding: 20px;
+  box-sizing: border-box;
+  word-wrap: break-word; 
+  white-space: normal;
+}
+.pdiferente{
+text-align: center;
+}
+.gif{
+  size: 30cm;
+}
+.gif2{
+  size: 30cm;
+}
+.tabela{
+  border: 1;
+  width: 100%;
+}
+div{
+  block-size: 1;
+}
+
+button{
+  size: 40px;
+  text-align: center;
+}
